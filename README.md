@@ -3,6 +3,7 @@ Pre-requisites:
 ******************
 
 Step 1: Download the attached project folder.
+
 Step 2: Navigate to the project root folder
 
 Step 3: Build the image using below command
