@@ -45,4 +45,4 @@ It's bad idea to call the locale, since as a side effect it affects the entire p
 
 Ex:
 
-python fetch_sport_api_data.py --event_type "f1Results" "Tennis"
+        python fetch_sport_api_data.py --event_type "f1Results" "Tennis"
