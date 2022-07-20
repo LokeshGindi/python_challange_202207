@@ -38,7 +38,7 @@ How to Run the program?
 
 Usage:
 
-python fetch_sport_api_data.py --event_type <provide_input_event_names" --locale_conf <property_name=value>
+        python fetch_sport_api_data.py --event_type <provide_input_event_names" --locale_conf <property_name=value>
 
 WARNING:
 It's bad idea to call the locale, since as a side effect it affects the entire program. Saving and restoring it is almost as bad it is expensive and affects other threads that happen to run before the settings have been restored.
